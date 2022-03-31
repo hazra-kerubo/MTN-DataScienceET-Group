@@ -1,5 +1,5 @@
 # MTN-DataScienceET-Group
-This is our first Data Science mini Project project
+
 2.0 DATA UNDERSTANDING
 2.1 Collect Data
 The Data that we will use is secondary data that MTN gathered from the cities in Cote d'Ivoire. The data was collected over a 3-day period.
